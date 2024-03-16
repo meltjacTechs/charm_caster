@@ -2,6 +2,5 @@
 const nextConfig = {};
 
 export default nextConfig ({
-    plugins: [react()],
     assetsInclude: ['**/*.glb'],
 })
