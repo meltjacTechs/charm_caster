@@ -68,7 +68,7 @@ const AboutDetails = () => {
         <ItemLayout className={"col-span-full"}>
           <img
             className="w-full h-auto"
-            src={`https://skillicons.dev/icons?i=html,css,js,git,github,`}
+            src={`https://skillicons.dev/icons?i=html,css,sass,tailwind,js,ts,git,github,mongodb,react,nextjs,nodejs,vite,vercel,docker,netlify,figma,photoshop,vscode,appwrite,graphql,prisma,postgresql,mysql,threejs,mui,npm,linux,ubuntu,windows`}
             alt="meltjacTechs"
             loading="lazy"
           />
