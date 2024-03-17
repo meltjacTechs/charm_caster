@@ -40,10 +40,10 @@ export const projectsData = [
   },
   {
     id: 4,
-    name: "HealthBeat",
-    description: "Monitor heart rate zones",
-    date: "2022-05-30",
-    demoLink: "https://healthbeat.example.com",
+    name: "Self Driving Car",
+    description: "Machine Learning Model for Self Driving Car",
+    date: "2024-03-12",
+    demoLink: "https://self-driving-car-iota.vercel.app",
   },
   {
     id: 5,
