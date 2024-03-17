@@ -80,7 +80,6 @@ const AboutDetails = () => {
             src={`${process.env.NEXT_PUBLIC_GITHUB_STREAK_STATS_URL}?user=meltjacTechs&theme=dark&hide_border=true&type=svg&background=EB545400&ring=FEFE5B&currStreakLabel=FEFE5B`}
             alt="meljacTechs"
             loading="lazy"
-            width={full}
           />
         </ItemLayout>
 
