@@ -12,9 +12,9 @@ const inter = Inter({
 export const metadata = {
   title: {
     template:
-      "Meltjac Techs | Life we live in | Life of a Fullstack Developer | Next.js Portfolio | Three.js | Tailwind CSS | Framer Motion",
+    "Next.js Portfolio Created with Three.js and Tailwind CSS by Meltjac Techs",
     default:
-      "Next.js Portfolio Created with Three.js and Tailwind CSS by Meltjac Techs",
+      "Meltjac Techs | Life we live in | Life of a Fullstack Developer | Next.js Portfolio | Three.js | Tailwind CSS | Framer Motion",
   },
   description:
     "A unique creative portfolio designed by Meltjac Techs with cutting-edge technologies like Next.js, Tailwind CSS, Three.js, and Framer Motion. Experience the art of modern web development firsthand.",
