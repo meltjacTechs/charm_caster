@@ -108,7 +108,7 @@ export const BtnList = [
   },
   {
     label: "X",
-    link: "https://www.x.com",
+    link: "https://x.com/meltjacTechs?t=prv_8CxecIdzlZHGY2G8XA&s=09",
     icon: "twitter",
     newTab: true,
   },
