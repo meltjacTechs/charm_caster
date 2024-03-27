@@ -33,10 +33,10 @@ export const projectsData = [
   },
   {
     id: 3,
-    name: "Lingo",
-    description: "AI Language Learning Saas, A minimalist Duolingo clone",
-    date: "2024-03-15",
-    demoLink: "https://lingo-pinkslip.vercel.app",
+    name: "Synaptic",
+    description: "An automated saas app for managing online platforms",
+    date: "2024-03-26",
+    demoLink: "https://synaptic-nine.vercel.app/",
   },
   {
     id: 4,
