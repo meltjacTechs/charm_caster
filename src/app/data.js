@@ -47,10 +47,10 @@ export const projectsData = [
   },
   {
     id: 5,
-    name: "RecipeFinder",
-    description: "Discover new recipes",
+    name: "Zoom Clone",
+    description: "A cloud-based video conferencing platform that allows for virtual meetings with screen sharing and chat functionalities.",
     date: "2022-07-12",
-    demoLink: "https://recipefinder.example.com",
+    demoLink: "https://zoom-clone-ashy.vercel.app",
   },
   {
     id: 6,
