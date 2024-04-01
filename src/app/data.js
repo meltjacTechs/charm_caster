@@ -36,7 +36,7 @@ export const projectsData = [
     name: "Yoom",
     description: "A cloud-based video conferencing platform.",
     date: "2024-03-30",
-    demoLink: "https://zoom-clone-ashy.vercel.app",
+    demoLink: "https://yoom-ashy.vercel.app",
   },
   {
     id: 4,
